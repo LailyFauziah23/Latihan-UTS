@@ -25,6 +25,6 @@
          */
         public function down(): void
         {
-            Schema::dropIfExists('posts');
+            Schema::dropIfExists('posts');//apa gitu
         }
     };
