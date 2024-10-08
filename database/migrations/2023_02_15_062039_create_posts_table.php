@@ -19,7 +19,7 @@
                 $table->timestamps();
             });
         }
-
+//apa gitu
         /**
          * Reverse the migrations.
          */
